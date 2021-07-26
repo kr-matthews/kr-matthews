@@ -5,3 +5,5 @@ I also have a Master of Arts from the University of California, Los Angeles, whe
 
 In the past, I've created several (useful, but poorly designed and implemented) web apps related to Rubik's cubes.
 I'm currently working on creating various web apps -- personal website, blog, simple games, etc. -- with the aim of improving my skills and learning new ones.
+
+I also have professional experience in basic personal financial planning/wealth management and standard (Canadian) financial instruments.
