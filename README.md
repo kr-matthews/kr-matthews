@@ -1,4 +1,4 @@
-![image](https://github.com/kr-matthews/kr-matthews/assets/49137025/d93f2b74-56c0-4434-9575-81ccdf0125fc)I'm Kevin Matthews, a **mathematician** by training. Generally, I'm interested in most kinds of **problem solving** related to mathematics and programming.
+I'm Kevin Matthews, a **mathematician** by training. Generally, I'm interested in most kinds of **problem solving** related to mathematics and programming.
 
 I have a **Bachelor of Mathematics** from the **University of Waterloo**, where I studied Pure Math, Applied Math, Combinatorics & Optimization, and Computational Math.
 I also have a **Master of Arts** from the **University of California, Los Angeles**, where I studied Mathematical Logic.
